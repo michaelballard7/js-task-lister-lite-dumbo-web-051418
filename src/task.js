@@ -1,6 +1,6 @@
 class Task {
   
-  constructor(name, description){
+  constructor(description){
     this.description = description;
     
   }
